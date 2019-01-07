@@ -5,4 +5,5 @@ echo "GoodMoning Japan"
 echo "おはよう、ニッポン"
 echo "c'mon baby America"
 echo "今何時？"
+echo "ルージュの伝言"
 ?>
